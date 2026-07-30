@@ -1,16 +1,20 @@
 <h1 align="center">Hi there, I'm Maïlys 👋</h1>
 
 <p align="center">
-  Product Manager / Product Builder (ex-SWE) 🇫🇷 based in Paris, France
+  Product Manager / Product Builder (ex-SWE) based in Paris, France 🇫🇷
 </p>
 
 ---
 
-- ⚡️ In my free time I enjoy doing sport: pre-national table tennis player, ex-competitive badminton player, and sunday runner!
-- 👨🏼‍💻 Product Manager at **Immersiv**
-- ✉️ Contact me by [email](mailto:your.email@example.com)
+- 👨🏼‍💻 Product Manager at **Immersiv.io**
+- 👷 Product builder turning ideas into products!
+- ⚡️ In my free time I enjoy testing new restaurants and doing sports to ensure wasting all the calories won:
+  - 🏓 pre-national table tennis player
+  - 🏸 ex-competitive badminton player
+  - 🏃‍♀️ Sunday runner!
+- ✉️ Contact me on [LinkedIn](https://www.linkedin.com/in/mailys-desvignes/)
 
-## 🛠️ Languages and Tools
+<h3>🛠️ Languages and Tools</h3>
 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -45,7 +49,7 @@
   </a>
 </p>
 
-## 🚀 Side Projects
+<h3>🚀 Side Projects</h3>
 
 ### 🎣 [Tempo](https://pecheto.vercel.app)
 A tracking fishing app to enable fishermen to get data from their fishing sessions and get long-term insights.
