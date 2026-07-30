@@ -8,7 +8,7 @@
 
 - 👨🏼‍💻 Product Manager at **Immersiv.io**
 - 👷 Product builder turning ideas into products!
-- ⚡️ In my free time I enjoy testing new restaurants and doing sports to ensure wasting all the calories won:
+- ⚡️ In my free time I enjoy trying out new restaurants and playing sports to burn off all the accumulated calories:
   - 🏓 pre-national table tennis player
   - 🏸 ex-competitive badminton player
   - 🏃‍♀️ Sunday runner!
